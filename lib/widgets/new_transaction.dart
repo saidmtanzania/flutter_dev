@@ -56,7 +56,7 @@ class _NewTransactionState extends State<NewTransaction> {
       // margin: EdgeInsets.fromLTRB(12, 10, 12, 5),
       elevation: 5,
       child: Container(
-        padding: const EdgeInsets.fromLTRB(10, 0, 10, 0),
+        padding: const EdgeInsets.fromLTRB(10, 0, 10, 10),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.end,
           children: <Widget>[
